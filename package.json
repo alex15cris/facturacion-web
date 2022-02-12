@@ -1,0 +1,23 @@
+{
+  "name": "facturacion-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./demo -a localhost -p 4200 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex15cris/facturacion-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex15cris/facturacion-web/issues"
+  },
+  "homepage": "https://github.com/alex15cris/facturacion-web#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
